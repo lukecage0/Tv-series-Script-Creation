@@ -1,3 +1,4 @@
 # TV_script_generation
+Generating a fake TV script  using Neural Networks(Implemented LSTM)
 
-Generating TV scripts using a simple LSTM architecture
+
